@@ -25,4 +25,6 @@ Step 1: After running all the R.Script find Hult_data_mining_Shiny folder and ru
 
 Step 2: If you have ran every analysis in R.Script, Shiny should just load up when you "Run App" . It runs through the images in Global Environment created by R.script.
 
+If you are unable to download the app and run it then please visit https://adhishtripathiji.shinyapps.io/Hult_data_mining/ where the app is deployed and running on a Shiny server.
+
 Thank you
